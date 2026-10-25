@@ -1,0 +1,62 @@
+{
+  "semente": 241003384,
+  "linhas": 518271,
+  "total_valor_liquido": 1478926000.0,
+  "por_classe_liquido": {
+    "EM_TRANSITO": 472000.0,
+    "MATERIA_PRIMA": 443046000.0,
+    "MAT_CONSUMO_EMBALAGEM": 56459000.0,
+    "PRODUTO_ACABADO": 978949000.0
+  },
+  "provisao_total": 4688000.0,
+  "lucro_nao_realizado_total": 1293806000.0,
+  "margem_intragrupo_calibrada": 1.878905,
+  "erros_inseridos": [
+    {
+      "tipo_erro": "E1_CUSTO_UNITARIO_DIGITADO_X10",
+      "qtd": 40,
+      "efeito": 1578720.06
+    },
+    {
+      "tipo_erro": "E2_QTD_SEM_EXISTENCIA_FISICA",
+      "qtd": 3000,
+      "efeito": 3663777.5
+    },
+    {
+      "tipo_erro": "E3_OBSOLETO_SEM_PROVISAO",
+      "qtd": 300,
+      "efeito": 514288.21
+    },
+    {
+      "tipo_erro": "E4_REGISTRO_DUPLICADO",
+      "qtd": 60,
+      "efeito": 64523.41
+    },
+    {
+      "tipo_erro": "E5_CORTE_ENTRADA_POSTERIOR_A_DATA_BASE",
+      "qtd": 80,
+      "efeito": 1471303.9
+    },
+    {
+      "tipo_erro": "E6_CUSTO_ACIMA_DO_VRL_SEM_PROVISAO",
+      "qtd": 120,
+      "efeito": 158672.81
+    },
+    {
+      "tipo_erro": "E7_VALOR_DIFERENTE_DE_QTDxCUSTO",
+      "qtd": 50,
+      "efeito": 553733.0
+    },
+    {
+      "tipo_erro": "E8_QUANTIDADE_NEGATIVA",
+      "qtd": 30,
+      "efeito": -30760.78
+    },
+    {
+      "tipo_erro": "E9_CLASSIFICACAO_LOCAL_INCOMPATIVEL",
+      "qtd": 25,
+      "efeito": 0.0
+    }
+  ],
+  "efeito_total_erros": 7974258.11
+}
