@@ -55,7 +55,7 @@ reproduz de forma idêntica (semente fixa 241003384; confira pelo SHA-256), uma 
 
 Arquivos de apoio:
 - `registro_erros_inseridos.csv` – gabarito com 3.705 erros inseridos (9 tipos); lido apenas na comparação final.
-- `contagem_fisica_e_custo_documental_SIMULADOS.zip` (CSV compactado; também recriado por `gerar_base.py`) – "verdade simulada" consultada somente para itens selecionados
+- `contagem_fisica_e_custo_documental_SIMULADOS_parte1.csv` e `_parte2.csv` (arquivo dividido em duas partes, cada uma com cabeçalho; também recriado inteiro por `gerar_base.py`) – "verdade simulada" consultada somente para itens selecionados
   (simula contagem física e inspeção de documentos).
 - `resultados/` – saídas dos testes (PT 450, 500, 530).
 
