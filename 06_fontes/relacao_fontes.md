@@ -1,0 +1,21 @@
+# Relação das fontes utilizadas
+
+Páginas = numeração do arquivo PDF. (*) Correspondência entre os dois links de fatos relevantes e os documentos inferida pela ordem em que foram informados.
+
+| Sigla | Documento | Exercício | Endereço eletrônico | Data de acesso | Páginas |
+|---|---|---|---|---|---|
+| DF25 | Demonstrações financeiras individuais e consolidadas 2025 (versão RI, com relatório do auditor) | 2025 (comp. 2024) | https://api.mziq.com/mzfilemanager/v2/d/61a4df2d-a461-44d6-9128-da74058019db/16b7bfcb-6e5f-48d9-5a73-9302caef63a9?origin=2 | 21/10/2026 12:15 | p.2-68 |
+| DFP24 | DFP 31/12/2024 - formulário CVM (com relatório do auditor e nota 3) | 2024 (comp. 2023) | https://api.mziq.com/mzfilemanager/v2/d/61a4df2d-a461-44d6-9128-da74058019db/4f58b50f-3ba9-e3f2-2f32-9e30d751466c?origin=2 | 21/10/2026 16:58 | p.14-20, 30, 43, 59-60, 101-104 |
+| FRE | Formulário de Referência 2026 - versão 6 (CVM) | 2025/2026 | https://www.rad.cvm.gov.br/ENETWEB/frmGerenciaPaginaFRE.aspx?NumeroSequencialDocumento=161775&CodigoTipoInstituicao=1 | 21/10/2026 16:45 | p.17, 26, 28, 33, 39, 50, 94-97, 113-116, 127-164, 179-193, 239-244, 258-263 |
+| ITR1 | ITR 31/03/2026 (com relatório de revisão) | 1T26 | https://api.mziq.com/mzfilemanager/v2/d/61a4df2d-a461-44d6-9128-da74058019db/c68d2a78-1699-a728-f91c-e06357853bae?origin=2 | 21/10/2026 16:51 | p.3-6, 14, 47 |
+| ITR2 | ITR 30/06/2026 (com relatório de revisão) | 2T26 | https://api.mziq.com/mzfilemanager/v2/d/61a4df2d-a461-44d6-9128-da74058019db/0ef9b209-fd78-4a0a-073a-3560e1d38766?origin=2 | 22/10/2026 09:41 | p.3-6, 14 |
+| FRR | Fato relevante - Aprovação de programa de recompra (06/05/2026) | 2026 | https://api.mziq.com/mzfilemanager/v2/d/61a4df2d-a461-44d6-9128-da74058019db/4ec6743c-18fc-8ec7-9090-2c4b7ba6dd3f?origin=2 (*) | 22/10/2026 09:47 | p.1-2 |
+| FRG | Fato relevante - Guidance de abertura de lojas para 2026 (18/03/2026) | 2026 | https://api.mziq.com/mzfilemanager/v2/d/61a4df2d-a461-44d6-9128-da74058019db/b796f175-b7c1-6746-fb25-1742ab5f1247?origin=2 (*) | 22/10/2026 09:47 | p.1 |
+| AGO | Manual para participação e proposta da administração - AGO/E de 27/04/2026 | 2025 | https://api.mziq.com/mzfilemanager/v2/d/61a4df2d-a461-44d6-9128-da74058019db/dd5880f9-e3e2-5105-ee6a-c81c3300beec?origin=2 | 22/10/2026 09:48 | p.2-5, 14-15, 44, 51-56 |
+| ATA | Ata da AGO/E realizada em 27/04/2026 | 2025 | https://api.mziq.com/mzfilemanager/v2/d/61a4df2d-a461-44d6-9128-da74058019db/cb9fb923-bbd6-4775-7e9a-b4fb101db415?origin=2 | 22/10/2026 10:51 | p.1-4 |
+| DEB2 | Aviso ao mercado - 2ª emissão de debêntures (13/10/2026) | 2026 | https://filemanager-cdn.mziq.com/published/61a4df2d-a461-44d6-9128-da74058019db/4ff30f96-81ce-4f79-bd22-071deb015218 | 22/10/2026 10:52 | p.1-4 |
+| FCA | Formulário Cadastral 2026 - versão 1 | 2026 | https://api.mziq.com/mzfilemanager/v2/d/61a4df2d-a461-44d6-9128-da74058019db/33df8f9f-6e7d-2d5c-09c6-176d8e3bf436?origin=2 | 22/10/2026 09:53 | p.2-7 |
+| B3 | B3 - Empresas listadas: Vivara (VIVA3) - página impressa em PDF | 2026 | https://www.b3.com.br/pt_br/produtos-e-servicos/negociacao/renda-variavel/empresas.htm | 22/10/2026 09:50 | p.2 |
+| NORMAS | Consolidado Normas Aud1 (compilação das NBC TA - disciplina) | Vigentes para 2025 | https://unbbr.sharepoint.com/sites/AUD1_2026_2/Documentos%20Compartilhados/General/Consolidado%20Normas%20Aud1.pdf | 21/10/2026 11:49 | Páginas indicadas em cada PT |
+| CFC | CFC - relação das NBC TA de auditoria independente (verificação de versões) | - | https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-ta-de-auditoria-independente/ | 22/10/2026 | - |
+| CFC27 | Revisão NBC 27 - minuta em audiência pública (vigência proposta: exercícios iniciados a partir de 01/01/2025) | - | https://www.gov.br/participamaisbrasil/revisaonbc27 | 22/10/2026 | - |
