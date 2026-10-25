@@ -47,9 +47,9 @@ Classificação de cada procedimento: **[R]** realizado com evidência pública 
 | Conciliação | Diferença zero com as notas 7.2 (saldo), 7.3 (provisão de R$ 4.688 mil) e 20.9 (lucro não realizado de R$ 1.293.806 mil) |
 | Arquivo | `base_estoques_sintetica_31122025.csv` (≈ 144 MB; `;` separador; `,` decimal; UTF-8) |
 | SHA-256 | `4a405e474b7211503f8a6ecab1a0ff05f562693951c178b3b0fec8a90be30cbb` |
-| **Download** | **[LINK EXTERNO A SER INSERIDO PELO PREPARADOR]** |
+| **Obtenção** | Gerada pelo código (botão "Abrir no Colab" acima ou `python gerar_base.py`); conferir pelo SHA-256 |
 
-O arquivo completo excede o limite de 100 MB do GitHub e está disponível pelo link acima. O repositório contém o código que o
+O arquivo completo excede o limite de 100 MB do GitHub e por isso não está no repositório. O repositório contém o código que o
 reproduz de forma idêntica (semente fixa 241003384; confira pelo SHA-256), uma amostra de 2.000 linhas
 (`base_estoques_sintetica_AMOSTRA_2000_linhas.csv`), o dicionário de variáveis e o registro dos erros inseridos.
 
