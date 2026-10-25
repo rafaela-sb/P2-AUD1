@@ -1,0 +1,35 @@
+# Matriz de cobertura das normas
+
+Dossiê de auditoria - Vivara Participações S.A. - exercício 2025 - Rafaela de Sousa Barbosa, matrícula 241003384.
+
+| Norma (versão aplicada) | PT principal | Itens centrais | PTs relacionados |
+|---|---|---|---|
+| NBC TA Estrutura Conceitual | PT EC | Itens 10-15, 19, 22, 26-44 | PT 210, PT CONC |
+| NBC TA 200 (R1) | PT 200 | 11, 13-17, A20-A49 | Todos |
+| NBC TA 210 (R1) | PT 210 | 6-10, 13, A23 | PT EC, PT 580 |
+| NBC TA 220 (R3) | PT 220 | 13-17, 25-37 | PT 230, PT 300 |
+| NBC TA 230 (R1) | PT 230 | 7-9, 14-16, A21-A23 | Estrutura do repositório |
+| NBC TA 240 (R1) | PT 240 | 11, 15-17, 24-33 | PT 315 (R01, R02), PT 330, PT 540 |
+| NBC TA 250 | PT 250 | 13-23 | PT 501, PT 260 |
+| NBC TA 260 (R2) | PT 260 | 11, 13-19, 21, A29 | PT 265, PT 450 |
+| NBC TA 265 | PT 265 | 6-11, A5-A7 | PT 450, PT 260 |
+| NBC TA 300 (R1) | PT 300 | 5-13 | PROG-01 a 06 |
+| NBC TA 315 (R2) | PT 315 | 13-32 | PT 240, PT 330 |
+| NBC TA 320 (R1) | PT 320 | 10-14, A3-A13 | PT 450, PT 530, PT 600 |
+| NBC TA 330 (R1) | PT 330 | 5-8, 18-26 | PROG-01 a 06 |
+| NBC TA 402 | PT 402 | 9-16 | PT 505 |
+| NBC TA 450 (R1) | PT 450 | 5-12 | PT 530, PT 260, PT 580 |
+| NBC TA 500 (R1) | PT 500 | 6-11, A26-A33 | Todos |
+| NBC TA 501 | PT 501 | 4-13 | PT 530, PT 505 |
+| NBC TA 505 | PT 505 | 7-16 | PT 402, PT 501 |
+| NBC TA 510 (R1) | PT 510 | 5-9 | PT 300 |
+| NBC TA 520 | PT 520 | 5-7, A4-A16 | PT 315, PT 540 |
+| NBC TA 530 | PT 530 + Base simulada | 6-15, A10-A23 | PT 450, PT 500 |
+| NBC TA 540 (R2) | PT 540 | 13-32 | PT 240, PROG-06 |
+| NBC TA 550 | PT 550 | 11-25 | PT 580 |
+| NBC TA 560 (R1) | PT 560 | 5-10, 14-15 | PT 570, PT 580 |
+| NBC TA 570 | PT 570 | 10-18 | PT 560 |
+| NBC TA 580 (R1) | PT 580 | 4, 9-20 | PT 210 |
+| NBC TA 600 (R2) | PT 600 | 11-45 | PT 320, PT 530 |
+
+Versões das normas e observações de vigência: PT 230, quadro 3, do dossiê.
