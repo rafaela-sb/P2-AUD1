@@ -1,0 +1,266 @@
+{
+  "linhas_base": 518271,
+  "conciliacao": [
+    {
+      "item": "Saldo líquido - PRODUTO_ACABADO",
+      "base_simulada_RS": 978949000.0,
+      "contabil_RS": 978949000.0,
+      "diferenca_RS": 0.0,
+      "fonte_contabil": "DF25 nota 7.2, p.30"
+    },
+    {
+      "item": "Saldo líquido - MATERIA_PRIMA",
+      "base_simulada_RS": 443046000.0,
+      "contabil_RS": 443046000.0,
+      "diferenca_RS": 0.0,
+      "fonte_contabil": "DF25 nota 7.2, p.30"
+    },
+    {
+      "item": "Saldo líquido - MAT_CONSUMO_EMBALAGEM",
+      "base_simulada_RS": 56459000.0,
+      "contabil_RS": 56459000.0,
+      "diferenca_RS": 0.0,
+      "fonte_contabil": "DF25 nota 7.2, p.30"
+    },
+    {
+      "item": "Saldo líquido - EM_TRANSITO",
+      "base_simulada_RS": 472000.0,
+      "contabil_RS": 472000.0,
+      "diferenca_RS": 0.0,
+      "fonte_contabil": "DF25 nota 7.2, p.30"
+    },
+    {
+      "item": "Total estoques (líquido)",
+      "base_simulada_RS": 1478926000.0,
+      "contabil_RS": 1478926000.0,
+      "diferenca_RS": 0.0,
+      "fonte_contabil": "DF25 BP p.19 / nota 7.2 p.30"
+    },
+    {
+      "item": "Provisão para perdas",
+      "base_simulada_RS": 4688000.0,
+      "contabil_RS": 4688000.0,
+      "diferenca_RS": 0.0,
+      "fonte_contabil": "DF25 nota 7.3, p.31"
+    },
+    {
+      "item": "Lucro não realizado eliminado na consolidação",
+      "base_simulada_RS": 1293806000.0,
+      "contabil_RS": 1293806000.0,
+      "diferenca_RS": 0.0,
+      "fonte_contabil": "DF25 nota 20.9, p.52 (base do IR diferido)"
+    },
+    {
+      "item": "Saldo bruto (antes da provisão)",
+      "base_simulada_RS": 1483614000.0,
+      "contabil_RS": 1483614000.0,
+      "diferenca_RS": 0.0,
+      "fonte_contabil": "Nota 7.2 + 7.3 (premissa: composição divulgada é líquida da provisão)"
+    }
+  ],
+  "testes_100pct": {
+    "T1_RECALCULO_QTDxCUSTO": {
+      "sinalizados": 50,
+      "confirmados": 50,
+      "distorcao_confirmada_RS": 553733.0
+    },
+    "T2_DUPLICIDADE": {
+      "sinalizados": 60,
+      "confirmados": 60,
+      "distorcao_confirmada_RS": 64523.41
+    },
+    "T3_QTD_NEGATIVA": {
+      "sinalizados": 30,
+      "confirmados": 30,
+      "distorcao_confirmada_RS": -30760.78
+    },
+    "T4_CORTE": {
+      "sinalizados": 80,
+      "confirmados": 80,
+      "distorcao_confirmada_RS": 1471303.9
+    },
+    "T5_GIRO_LENTO_SEM_PROVISAO": {
+      "sinalizados": 300,
+      "confirmados": 300,
+      "distorcao_confirmada_RS": 514288.21
+    },
+    "T6_CUSTO_ACIMA_VRL": {
+      "sinalizados": 160,
+      "confirmados": 160,
+      "distorcao_confirmada_RS": 1737392.79
+    },
+    "T7_CUSTO_ATIPICO": {
+      "sinalizados": 40,
+      "confirmados": 40,
+      "distorcao_confirmada_RS": 1578720.06
+    },
+    "T8_CLASSIFICACAO_LOCAL": {
+      "sinalizados": 25,
+      "confirmados": 25,
+      "distorcao_confirmada_RS": 0.0
+    }
+  },
+  "itens_sinalizados_distintos": 705,
+  "itens_confirmados": 705,
+  "falsos_positivos": 0,
+  "confirmados_fora_do_registro_de_erros": 0,
+  "distorcao_conhecida_testes_100pct_RS": 4310480.53,
+  "distorcao_por_teste_principal": [
+    {
+      "teste_principal": "T1_RECALCULO_QTDxCUSTO",
+      "itens": 50,
+      "distorcao_RS": 553733.0
+    },
+    {
+      "teste_principal": "T2_DUPLICIDADE",
+      "itens": 60,
+      "distorcao_RS": 64523.41
+    },
+    {
+      "teste_principal": "T3_QTD_NEGATIVA",
+      "itens": 30,
+      "distorcao_RS": -30760.78
+    },
+    {
+      "teste_principal": "T4_CORTE",
+      "itens": 80,
+      "distorcao_RS": 1471303.9
+    },
+    {
+      "teste_principal": "T5_GIRO_LENTO_SEM_PROVISAO",
+      "itens": 300,
+      "distorcao_RS": 514288.21
+    },
+    {
+      "teste_principal": "T6_CUSTO_ACIMA_VRL",
+      "itens": 120,
+      "distorcao_RS": 158672.73
+    },
+    {
+      "teste_principal": "T7_CUSTO_ATIPICO",
+      "itens": 40,
+      "distorcao_RS": 1578720.06
+    },
+    {
+      "teste_principal": "T8_CLASSIFICACAO_LOCAL",
+      "itens": 25,
+      "distorcao_RS": 0.0
+    }
+  ],
+  "mus": {
+    "populacao_itens": 515268,
+    "valor_populacao_RS": 1478956760.78,
+    "distorcao_toleravel_RS": 17400000.0,
+    "distorcao_esperada_RS": 1740000.0,
+    "fator_confiabilidade": 3.0,
+    "fator_expansao": 1.6,
+    "tamanho_amostra_unidades": 304,
+    "itens_distintos_selecionados": 304,
+    "intervalo_amostral_RS": 4864989.34,
+    "inicio_aleatorio_RS": 2565942.03,
+    "semente": 241003384,
+    "itens_com_distorcao_total": 2,
+    "itens_com_distorcao_ja_identificada_100pct": 1,
+    "itens_com_distorcao_projetada": 1,
+    "distorcao_amostra_projetavel_RS": 1021.24,
+    "precisao_basica_RS": 14594968.03,
+    "distorcao_projetada_RS": 810833.18,
+    "provisao_incremental_RS": 608124.88,
+    "limite_superior_distorcao_RS": 16013926.1,
+    "conclusao": "UML <= distorção tolerável: população aceita"
+  },
+  "comparacao": [
+    {
+      "tipo_erro": "E1_CUSTO_UNITARIO_DIGITADO_X10",
+      "inseridos": 40,
+      "detectados": 40,
+      "detectados_100pct": 40,
+      "detectados_amostra": 0,
+      "efeito_inserido_RS": 1578720.06,
+      "distorcao_quantificada_RS": 1578720.06,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "E2_QTD_SEM_EXISTENCIA_FISICA",
+      "inseridos": 3000,
+      "detectados": 1,
+      "detectados_100pct": 0,
+      "detectados_amostra": 1,
+      "efeito_inserido_RS": 3663777.5,
+      "distorcao_quantificada_RS": 1021.24,
+      "taxa_deteccao": 0.0003
+    },
+    {
+      "tipo_erro": "E3_OBSOLETO_SEM_PROVISAO",
+      "inseridos": 300,
+      "detectados": 300,
+      "detectados_100pct": 300,
+      "detectados_amostra": 0,
+      "efeito_inserido_RS": 514288.20999999996,
+      "distorcao_quantificada_RS": 514288.20999999996,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "E4_REGISTRO_DUPLICADO",
+      "inseridos": 60,
+      "detectados": 60,
+      "detectados_100pct": 60,
+      "detectados_amostra": 0,
+      "efeito_inserido_RS": 64523.409999999996,
+      "distorcao_quantificada_RS": 64523.409999999996,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "E5_CORTE_ENTRADA_POSTERIOR_A_DATA_BASE",
+      "inseridos": 80,
+      "detectados": 80,
+      "detectados_100pct": 80,
+      "detectados_amostra": 1,
+      "efeito_inserido_RS": 1471303.9,
+      "distorcao_quantificada_RS": 1471303.9,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "E6_CUSTO_ACIMA_DO_VRL_SEM_PROVISAO",
+      "inseridos": 120,
+      "detectados": 120,
+      "detectados_100pct": 120,
+      "detectados_amostra": 0,
+      "efeito_inserido_RS": 158672.81,
+      "distorcao_quantificada_RS": 158672.73,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "E7_VALOR_DIFERENTE_DE_QTDxCUSTO",
+      "inseridos": 50,
+      "detectados": 50,
+      "detectados_100pct": 50,
+      "detectados_amostra": 0,
+      "efeito_inserido_RS": 553733.0,
+      "distorcao_quantificada_RS": 553733.0,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "E8_QUANTIDADE_NEGATIVA",
+      "inseridos": 30,
+      "detectados": 30,
+      "detectados_100pct": 30,
+      "detectados_amostra": 0,
+      "efeito_inserido_RS": -30760.78,
+      "distorcao_quantificada_RS": -30760.78,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "E9_CLASSIFICACAO_LOCAL_INCOMPATIVEL",
+      "inseridos": 25,
+      "detectados": 25,
+      "detectados_100pct": 25,
+      "detectados_amostra": 0,
+      "efeito_inserido_RS": 0.0,
+      "distorcao_quantificada_RS": 0.0,
+      "taxa_deteccao": 1.0
+    }
+  ],
+  "efeito_total_inserido_RS": 7974258.11,
+  "distorcao_total_estimada_RS": 5121313.71
+}

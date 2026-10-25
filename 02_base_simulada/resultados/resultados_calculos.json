@@ -1,0 +1,861 @@
+{
+  "PT320": {
+    "alternativas": [
+      {
+        "referencial": "LAIR 2025",
+        "base": 587798,
+        "percentual": 0.05,
+        "materialidade": 29389.9
+      },
+      {
+        "referencial": "LAIR médio 2023-2025",
+        "base": 538293.0,
+        "percentual": 0.05,
+        "materialidade": 26914.7
+      },
+      {
+        "referencial": "Receita líquida 2025",
+        "base": 3026582,
+        "percentual": 0.01,
+        "materialidade": 30265.8
+      },
+      {
+        "referencial": "Receita líquida 2025 (0,5%)",
+        "base": 3026582,
+        "percentual": 0.005,
+        "materialidade": 15132.9
+      },
+      {
+        "referencial": "Ativo total 2025",
+        "base": 4722692,
+        "percentual": 0.01,
+        "materialidade": 47226.9
+      },
+      {
+        "referencial": "Patrimônio líquido 2025",
+        "base": 2949564,
+        "percentual": 0.01,
+        "materialidade": 29495.6
+      },
+      {
+        "referencial": "Lucro bruto 2025",
+        "base": 2105110,
+        "percentual": 0.01,
+        "materialidade": 21051.1
+      }
+    ],
+    "referencial_escolhido": "Lucro antes do IR e CS consolidado 2025 (DF25 p.20)",
+    "MG_calculada": 29389.9,
+    "MG": 29000,
+    "ME": 17400.0,
+    "perc_ME": 0.6,
+    "trivial": 1450.0,
+    "MG_sobre_receita": 0.0096,
+    "MG_sobre_ativo": 0.0061,
+    "MG_sobre_PL": 0.0098,
+    "MG_sobre_LL": 0.0468,
+    "especificas": [
+      {
+        "item": "Remuneração dos administradores (nota 19.3)",
+        "materialidade": 1200,
+        "base": "≈10% do total de R$ 12.020 mil; sensibilidade dos usuários e limite aprovado em AGO"
+      },
+      {
+        "item": "Transações e saldos com partes relacionadas (nota 19)",
+        "materialidade": 1450,
+        "base": "limite trivial - natureza qualitativa (NBC TA 550)"
+      }
+    ]
+  },
+  "PT500": [
+    {
+      "verificacao": "Ativo circulante = soma dos itens",
+      "calculado": 3064599,
+      "divulgado": 3064599,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.19"
+    },
+    {
+      "verificacao": "Realizável a LP = soma dos itens",
+      "calculado": 642808,
+      "divulgado": 642808,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.19"
+    },
+    {
+      "verificacao": "Ativo não circulante = RLP + imobilizado + intangível",
+      "calculado": 1658093,
+      "divulgado": 1658093,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.19"
+    },
+    {
+      "verificacao": "Ativo total = AC + ANC",
+      "calculado": 4722692,
+      "divulgado": 4722692,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.19"
+    },
+    {
+      "verificacao": "Passivo circulante = soma dos itens",
+      "calculado": 843949,
+      "divulgado": 843949,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.19"
+    },
+    {
+      "verificacao": "Passivo não circulante = soma dos itens",
+      "calculado": 929179,
+      "divulgado": 929179,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.19"
+    },
+    {
+      "verificacao": "PL = soma dos itens",
+      "calculado": 2949564,
+      "divulgado": 2949564,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.19"
+    },
+    {
+      "verificacao": "Passivo + PL = Ativo total",
+      "calculado": 4722692,
+      "divulgado": 4722692,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.19"
+    },
+    {
+      "verificacao": "DRE: lucro líquido = LAIR + IR/CS",
+      "calculado": 619502,
+      "divulgado": 619502,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.20"
+    },
+    {
+      "verificacao": "DRE: LAIR = EBIT + resultado financeiro",
+      "calculado": 587798,
+      "divulgado": 587798,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.20"
+    },
+    {
+      "verificacao": "DFC: variação de caixa = operacional + investimento + financiamento",
+      "calculado": 120491,
+      "divulgado": 120491,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.23"
+    },
+    {
+      "verificacao": "DFC: caixa final = BP",
+      "calculado": 398644,
+      "divulgado": 398644,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.23 x p.19"
+    },
+    {
+      "verificacao": "Nota 7.2: composição = estoques no BP",
+      "calculado": 1478926,
+      "divulgado": 1478926,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.30 x p.19"
+    },
+    {
+      "verificacao": "Nota 7.3: provisão (fim) = base do IR diferido 2025 (nota 20.9)",
+      "calculado": 4688,
+      "divulgado": 4688,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.31 x p.52"
+    },
+    {
+      "verificacao": "Nota 7.3: provisão (fim) 2024 = base do IR diferido 2024 (nota 20.9)",
+      "calculado": 5217,
+      "divulgado": 5401,
+      "diferenca": -184,
+      "status": "DIVERGENCIA",
+      "fonte": "DF25 p.31 x p.52"
+    },
+    {
+      "verificacao": "Nota 7.3: movimentação da provisão",
+      "calculado": -4688,
+      "divulgado": -4688,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.31"
+    },
+    {
+      "verificacao": "DFC: ajuste 'provisão para perdas de estoque' = -(provisões + reversões) (nota 7.3)",
+      "calculado": -529,
+      "divulgado": -529,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.23 x p.31"
+    },
+    {
+      "verificacao": "Nota 6.2: contas a receber líquido = BP",
+      "calculado": 989601,
+      "divulgado": 989601,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.29 x p.19"
+    },
+    {
+      "verificacao": "Nota 10.4: imobilizado líquido = BP",
+      "calculado": 955347,
+      "divulgado": 955347,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.35 x p.19"
+    },
+    {
+      "verificacao": "Nota 15.1: empréstimos CP + LP = BP",
+      "calculado": 531276,
+      "divulgado": 531276,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.40 x p.19"
+    },
+    {
+      "verificacao": "Nota 15.1: total líquido de derivativos",
+      "calculado": 554005,
+      "divulgado": 554005,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.40"
+    },
+    {
+      "verificacao": "Nota 17.1: provisões = BP",
+      "calculado": 26937,
+      "divulgado": 26937,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.41 x p.19"
+    },
+    {
+      "verificacao": "FRE item 4.4: provisões (R$) x nota 17.1",
+      "calculado": 26936.59,
+      "divulgado": 26937,
+      "diferenca": -0.41,
+      "status": "OK",
+      "fonte": "FRE p.116 x DF25 p.41"
+    },
+    {
+      "verificacao": "Nota 28: passivo de arrendamento CP + LP = BP",
+      "calculado": 682705,
+      "divulgado": 682705,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.58 x p.19"
+    },
+    {
+      "verificacao": "Nota 28: fluxos não descontados - juros embutidos = passivo",
+      "calculado": 682705,
+      "divulgado": 682705,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.60"
+    },
+    {
+      "verificacao": "Nota 28: movimentação do passivo",
+      "calculado": 682705,
+      "divulgado": 682705,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.59"
+    },
+    {
+      "verificacao": "Nota 20.9: IR/CS diferidos líquidos = BP",
+      "calculado": 568590,
+      "divulgado": 568590,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.52 x p.19"
+    },
+    {
+      "verificacao": "Nota 21.2: composição = receita líquida",
+      "calculado": 3026582,
+      "divulgado": 3026582,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.53 x p.20"
+    },
+    {
+      "verificacao": "Nota 23: receita por categoria = bruta - devoluções (nota 21.2)",
+      "calculado": 3801302,
+      "divulgado": 3801302,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.55 x p.53"
+    },
+    {
+      "verificacao": "Nota 18.4: dividendo mínimo = 25% x (LL - reserva legal)",
+      "calculado": 147132,
+      "divulgado": 147132,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.46"
+    },
+    {
+      "verificacao": "AGO: lucro líquido (R$) x DRE",
+      "calculado": 619502.3,
+      "divulgado": 619502,
+      "diferenca": 0.3,
+      "status": "OK",
+      "fonte": "AGO p.14 x DF25 p.20"
+    },
+    {
+      "verificacao": "AGO: reserva estatutária (R$) = lucro ajustado - dividendos",
+      "calculado": 424527183.98,
+      "divulgado": 424527183.92,
+      "diferenca": 0.06,
+      "status": "DIVERGENCIA",
+      "fonte": "AGO p.15"
+    },
+    {
+      "verificacao": "Nota 20.8: IR/CS diferidos na conciliação x DRE",
+      "calculado": 139324,
+      "divulgado": 139322,
+      "diferenca": 2,
+      "status": "DIVERGENCIA",
+      "fonte": "DF25 p.51 x p.20"
+    },
+    {
+      "verificacao": "Nota 9.4: investimentos (controladora) = soma das controladas",
+      "calculado": 3230468,
+      "divulgado": 3230468,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.33"
+    },
+    {
+      "verificacao": "Nota 9.2: Tellerina - total do passivo e PL divulgado x total do ativo",
+      "calculado": 5427730,
+      "divulgado": 5360640,
+      "diferenca": 67090,
+      "status": "DIVERGENCIA",
+      "fonte": "DF25 p.32"
+    },
+    {
+      "verificacao": "Nota 9.2: Conipa - total do passivo e PL divulgado x total do ativo",
+      "calculado": 3239576,
+      "divulgado": 4114502,
+      "diferenca": -874926,
+      "status": "DIVERGENCIA",
+      "fonte": "DF25 p.32"
+    },
+    {
+      "verificacao": "Nota 9.2: Tellerina Panama - total do passivo e PL divulgado x total do ativo",
+      "calculado": 19134,
+      "divulgado": 17650,
+      "diferenca": 1484,
+      "status": "DIVERGENCIA",
+      "fonte": "DF25 p.32"
+    },
+    {
+      "verificacao": "Depreciação e amortização: DFC x notas 10.6 + 11.2",
+      "calculado": 162855,
+      "divulgado": 162855,
+      "diferenca": 0,
+      "status": "OK",
+      "fonte": "DF25 p.23 x p.36-37"
+    },
+    {
+      "verificacao": "Depreciação e amortização: DFC x nota 22 (custo + vendas + G&A)",
+      "calculado": 152836,
+      "divulgado": 162855,
+      "diferenca": -10019,
+      "status": "DIVERGENCIA",
+      "fonte": "DF25 p.23 x p.53-54"
+    },
+    {
+      "verificacao": "Nota 29.3: 'fornecedores e outras contas a pagar' 2024 x BP 2024",
+      "calculado": 93654,
+      "divulgado": 158736,
+      "diferenca": -65082,
+      "status": "DIVERGENCIA",
+      "fonte": "DF25 p.63 x p.19"
+    },
+    {
+      "verificacao": "Nota 29.3: dividendos a pagar consolidado 2025 x BP",
+      "calculado": 0,
+      "divulgado": 10,
+      "diferenca": -10,
+      "status": "DIVERGENCIA",
+      "fonte": "DF25 p.63 x p.19"
+    },
+    {
+      "verificacao": "ITR 1T26: comparativo 31/12/2025 - ativo total x DF 2025",
+      "calculado": 4722693,
+      "divulgado": 4722692,
+      "diferenca": 1,
+      "status": "DIVERGENCIA",
+      "fonte": "ITR1 p.5 x DF25 p.19"
+    },
+    {
+      "verificacao": "ITR 1T26: comparativo 31/12/2025 - PL x DF 2025",
+      "calculado": 2949567,
+      "divulgado": 2949564,
+      "diferenca": 3,
+      "status": "DIVERGENCIA",
+      "fonte": "ITR1 p.5 x DF25 p.19"
+    },
+    {
+      "verificacao": "ITR 1T26: comparativo 31/12/2025 - reservas de lucros x DF 2025",
+      "calculado": 455502,
+      "divulgado": 455500,
+      "diferenca": 2,
+      "status": "DIVERGENCIA",
+      "fonte": "ITR1 p.5 x DF25 p.19"
+    }
+  ],
+  "PT510": [
+    {
+      "linha": "Caixa e equivalentes",
+      "DFP2024_RS_mil": 278153.4,
+      "comparativo_DF2025_RS_mil": 278153,
+      "diferenca": 0.4,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Aplicações financeiras/TVM",
+      "DFP2024_RS_mil": 4529.6,
+      "comparativo_DF2025_RS_mil": 4530,
+      "diferenca": -0.4,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Contas a receber",
+      "DFP2024_RS_mil": 955208.1,
+      "comparativo_DF2025_RS_mil": 955208,
+      "diferenca": 0.1,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Estoques",
+      "DFP2024_RS_mil": 1332577.7,
+      "comparativo_DF2025_RS_mil": 1332578,
+      "diferenca": -0.3,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Tributos a recuperar (CP)",
+      "DFP2024_RS_mil": 189904.0,
+      "comparativo_DF2025_RS_mil": 189904,
+      "diferenca": -0.0,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Ativo circulante",
+      "DFP2024_RS_mil": 2781887.7,
+      "comparativo_DF2025_RS_mil": 2781888,
+      "diferenca": -0.3,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Ativo não circulante",
+      "DFP2024_RS_mil": 1491842.6,
+      "comparativo_DF2025_RS_mil": 1491842,
+      "diferenca": 0.6,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Imobilizado",
+      "DFP2024_RS_mil": 853171.6,
+      "comparativo_DF2025_RS_mil": 853172,
+      "diferenca": -0.4,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Intangível",
+      "DFP2024_RS_mil": 67326.0,
+      "comparativo_DF2025_RS_mil": 67326,
+      "diferenca": 0.0,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Passivo circulante",
+      "DFP2024_RS_mil": 995685.9,
+      "comparativo_DF2025_RS_mil": 995687,
+      "diferenca": -1.1,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Fornecedores (DFP: inclui convênio)",
+      "DFP2024_RS_mil": 372870.7,
+      "comparativo_DF2025_RS_mil": 372871,
+      "diferenca": -0.3,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Empréstimos CP",
+      "DFP2024_RS_mil": 113369.7,
+      "comparativo_DF2025_RS_mil": 113370,
+      "diferenca": -0.3,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Empréstimos LP",
+      "DFP2024_RS_mil": 285191.1,
+      "comparativo_DF2025_RS_mil": 285191,
+      "diferenca": 0.1,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Passivo não circulante",
+      "DFP2024_RS_mil": 781101.4,
+      "comparativo_DF2025_RS_mil": 781101,
+      "diferenca": 0.4,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Provisões",
+      "DFP2024_RS_mil": 18317.6,
+      "comparativo_DF2025_RS_mil": 18317,
+      "diferenca": 0.6,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Receita líquida 2024",
+      "DFP2024_RS_mil": 2577113.4,
+      "comparativo_DF2025_RS_mil": 2577113,
+      "diferenca": 0.4,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "CMV 2024",
+      "DFP2024_RS_mil": -767087.5,
+      "comparativo_DF2025_RS_mil": -767087,
+      "diferenca": -0.5,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "LAIR 2024",
+      "DFP2024_RS_mil": 626238.1,
+      "comparativo_DF2025_RS_mil": 626238,
+      "diferenca": 0.1,
+      "status": "OK (arredondamento)"
+    },
+    {
+      "linha": "Lucro líquido 2024",
+      "DFP2024_RS_mil": 653393.9,
+      "comparativo_DF2025_RS_mil": 653394,
+      "diferenca": -0.1,
+      "status": "OK (arredondamento)"
+    }
+  ],
+  "PT510_retificacao_2023": {
+    "lucro_2023_formulario_DFP24": 369244.553,
+    "lucro_2023_retificado_nota3": 381120,
+    "diferenca": 11875.4
+  },
+  "PT520_analiticos": [
+    {
+      "conta": "Receita bruta - lojas físicas",
+      "esperado": 3232004.2,
+      "real": 3223909,
+      "diferenca": -8095.2,
+      "diferenca_pct": -0.0025,
+      "limite_investigacao": 17400.0,
+      "investigar": false,
+      "premissas": "Lojas 2024 x (1 + SSS 11,8%) + 41 aberturas líquidas x R$ 5.600 mil (receita média anual de loja Life madura) x 50% do ano",
+      "fonte": "DF25 p.55; p.3; p.4; p.7"
+    },
+    {
+      "conta": "Custo das mercadorias vendidas",
+      "esperado": 900873.1,
+      "real": 921472,
+      "diferenca": 20598.9,
+      "diferenca_pct": 0.0229,
+      "limite_investigacao": 17400.0,
+      "investigar": true,
+      "premissas": "Receita líquida 2025 x (1 - margem bruta 2024 de 70.23%)",
+      "fonte": "DF25 p.20",
+      "investigacao": {
+        "explicacao": "Mudança de metodologia de GGF no fechamento de 2024 (alocação de R$ 43,9 mi ao estoque em 2024 e R$ 24,4 mi em 2025) - DF25 p.8-9",
+        "esperado_ajustado": 928029.6,
+        "diferenca_residual": -6557.6,
+        "residual_dentro_do_limite": true
+      }
+    },
+    {
+      "conta": "Despesas com vendas",
+      "esperado": 1111103.8,
+      "real": 1086276,
+      "diferenca": -24827.8,
+      "diferenca_pct": -0.0223,
+      "limite_investigacao": 17400.0,
+      "investigar": true,
+      "premissas": "Receita líquida 2025 x (despesas com vendas/receita 2024 = 36.71%)",
+      "fonte": "DF25 p.20",
+      "investigacao": {
+        "explicacao": "Menor número de aberturas em 2025 (41) que em 2024 (71) reduziu despesas de pessoal de lojas novas; aumentos em fretes, CRM e marketing (DF25 p.10)",
+        "diferenca_residual": null,
+        "residual_dentro_do_limite": null,
+        "conclusao": "Explicação qualitativa corroborada parcialmente; sem dados internos para quantificar - procedimento substantivo de detalhe planejado (PT 330)"
+      }
+    },
+    {
+      "conta": "Despesas gerais e administrativas",
+      "esperado": 302964.4,
+      "real": 282216,
+      "diferenca": -20748.4,
+      "diferenca_pct": -0.0685,
+      "limite_investigacao": 17400.0,
+      "investigar": true,
+      "premissas": "Receita líquida 2025 x (G&A/receita 2024 = 10.01%)",
+      "fonte": "DF25 p.20",
+      "investigacao": {
+        "explicacao": "Alavancagem operacional; G&A (ex-D&A) cresceu 8,6% vs receita líquida +17,4%; reversão one-off de ICP no 4T24 (DF25 p.10)",
+        "diferenca_residual": null,
+        "residual_dentro_do_limite": null,
+        "conclusao": "Explicação qualitativa consistente com a nota 22.3; teste de detalhes de serviços profissionais planejado (PT 330)"
+      }
+    },
+    {
+      "conta": "Depreciação (imobilizado e direito de uso de imóveis)",
+      "esperado": 153665.5,
+      "real": 144988,
+      "diferenca": -8677.5,
+      "diferenca_pct": -0.0565,
+      "limite_investigacao": 17400.0,
+      "investigar": false,
+      "premissas": "Custo médio (2024/2025) por classe / ponto médio da vida útil divulgada (nota 10.3)",
+      "fonte": "DF25 p.34-36"
+    },
+    {
+      "conta": "Encargos financeiros de arrendamento",
+      "esperado": 80291.7,
+      "real": 80179,
+      "diferenca": -112.7,
+      "diferenca_pct": -0.0014,
+      "limite_investigacao": 17400.0,
+      "investigar": false,
+      "premissas": "Passivo médio de arrendamento x taxa média ponderada de 12,92% a.a. (nota 28)",
+      "fonte": "DF25 p.58-59"
+    },
+    {
+      "conta": "Juros das debêntures (05/09 a 31/12/2025)",
+      "esperado": 13850.8,
+      "real": 14401,
+      "diferenca": 550.2,
+      "diferenca_pct": 0.0397,
+      "limite_investigacao": 17400.0,
+      "investigar": false,
+      "premissas": "R$ 300.000 mil x [(1+CDI 14,32%)x(1,007)]^(117/365) - 1; CDI 14,32% = taxa do cenário I da nota 29.7 (proxy)",
+      "fonte": "DF25 p.40-41 e p.66"
+    },
+    {
+      "conta": "Despesas de pessoal (custo + vendas + G&A)",
+      "esperado": 637226.8,
+      "real": 635739,
+      "diferenca": -1487.8,
+      "diferenca_pct": -0.0023,
+      "limite_investigacao": 17400.0,
+      "investigar": false,
+      "premissas": "Custo de pessoal por colaborador 2024 x quadro de 2025 (quadro de fim de exercício, nota de pessoas)",
+      "fonte": "DF25 p.14 e p.53-54"
+    }
+  ],
+  "PT520_indices": {
+    "margem_bruta": {
+      "2025": 0.6955,
+      "2024": 0.7023
+    },
+    "margem_liquida": {
+      "2025": 0.2047,
+      "2024": 0.2535
+    },
+    "dias_estoque_CMV": {
+      "2025": 556.8,
+      "2024": 503.3,
+      "RA_ex_GGF_2025": 537
+    },
+    "giro_estoque": {
+      "2025": 0.656,
+      "2024": 0.725
+    },
+    "dias_recebimento_receita_bruta": {
+      "2025": 94.8,
+      "divulgado_nota6": 95
+    },
+    "provisao_sobre_estoque": {
+      "2025": 0.00316,
+      "2024": 0.0039
+    },
+    "crescimento_receita_liquida": 0.1744,
+    "crescimento_estoques": 0.1098,
+    "aliquota_efetiva": {
+      "2025": -0.0539
+    }
+  },
+  "PT540_arrendamento": {
+    "premissa_distribuicao_fluxos": "pontos médios das faixas; faixa 3-5 anos dividida em 2 anos; > 5 anos distribuída em 5 anos (contratos majoritariamente de 10 anos - nota 28)",
+    "vp_a_12_92": 666368.1,
+    "passivo_divulgado": 682705,
+    "diferenca_modelo": -16336.9,
+    "taxa_implicita_modelo": 0.1211,
+    "sensibilidade": [
+      {
+        "taxa": 0.1092,
+        "valor_presente": 708220.3,
+        "variacao_vs_12_92": 41852.2
+      },
+      {
+        "taxa": 0.1192,
+        "valor_presente": 686706.9,
+        "variacao_vs_12_92": 20338.8
+      },
+      {
+        "taxa": 0.1292,
+        "valor_presente": 666368.1,
+        "variacao_vs_12_92": 0.0
+      },
+      {
+        "taxa": 0.1392,
+        "valor_presente": 647120.1,
+        "variacao_vs_12_92": -19247.9
+      },
+      {
+        "taxa": 0.1492,
+        "valor_presente": 628886.5,
+        "variacao_vs_12_92": -37481.6
+      }
+    ],
+    "efeito_1pp": 20338.8
+  },
+  "PT540_provisao_estoque": {
+    "saldo_31_12_2025": 4688,
+    "reversoes_1T26": 2392,
+    "reversoes_1S26": 4472,
+    "complementos_1S26": 2243,
+    "pct_revertido_1S26": 0.9539,
+    "saldo_30_06_2026": 2459,
+    "provisao_sobre_estoque_bruto": 0.00316,
+    "cenarios": [
+      {
+        "cenario": "Provisão de 0.5% do estoque bruto",
+        "provisao": 7418.1,
+        "efeito_resultado": -2730.1
+      },
+      {
+        "cenario": "Provisão de 1.0% do estoque bruto",
+        "provisao": 14836.1,
+        "efeito_resultado": -10148.1
+      },
+      {
+        "cenario": "Provisão de 2.0% do estoque bruto",
+        "provisao": 29672.3,
+        "efeito_resultado": -24984.3
+      }
+    ]
+  },
+  "PT570": {
+    "2025": {
+      "liquidez_corrente": 3.63,
+      "liquidez_seca": 1.88,
+      "liquidez_imediata": 0.47,
+      "endividamento_geral": 0.3754,
+      "PL_sobre_ativo": 0.6246
+    },
+    "2024": {
+      "liquidez_corrente": 2.79,
+      "liquidez_seca": 1.46,
+      "liquidez_imediata": 0.28,
+      "endividamento_geral": 0.4157,
+      "PL_sobre_ativo": 0.5843
+    },
+    "divida_bruta_liq_derivativos": {
+      "2025": 554005,
+      "2024": 397285
+    },
+    "divida_liquida": {
+      "2025": 155361,
+      "2024": 114602
+    },
+    "lajida_calculado": {
+      "2025": 889177,
+      "2024": 838115
+    },
+    "divida_liquida_sobre_lajida": {
+      "2025": 0.175,
+      "2024": 0.137
+    },
+    "fco": {
+      "2025": 468870,
+      "2024": 150682
+    },
+    "vencimentos_12m_emprestimos": 268108,
+    "vencimentos_12m_arrendamento": 139829,
+    "santander_4131_vencimento_dez_2026": 218572,
+    "ITR_1T26": {
+      "liquidez_corrente": 4.14,
+      "caixa": 308474,
+      "pl": 3030290
+    },
+    "ITR_2T26": {
+      "liquidez_corrente": 4.19,
+      "caixa": 416659,
+      "pl": 3184285,
+      "lucro_6m": 232460
+    }
+  },
+  "PT600": {
+    "componentes": [
+      {
+        "componente": "Tellerina",
+        "ativo_total": 5360640,
+        "pct_soma_ativos_componentes": 0.5647,
+        "lucro_prejuizo": -67090,
+        "pct_lucro_abs": 0.0711
+      },
+      {
+        "componente": "Conipa",
+        "ativo_total": 4114502,
+        "pct_soma_ativos_componentes": 0.4334,
+        "lucro_prejuizo": 874926,
+        "pct_lucro_abs": 0.9273
+      },
+      {
+        "componente": "Tellerina Panama",
+        "ativo_total": 17650,
+        "pct_soma_ativos_componentes": 0.0019,
+        "lucro_prejuizo": -1484,
+        "pct_lucro_abs": 0.0016
+      }
+    ],
+    "MG_grupo": 29000,
+    "ME_grupo": 17400.0,
+    "ME_componentes": {
+      "Tellerina": 12000,
+      "Conipa": 12000,
+      "Tellerina Panama": 3000,
+      "Vivara Participacoes (controladora)": 6000
+    },
+    "eliminacoes_2025": {
+      "lucro_controladas": 806352,
+      "lucro_nao_realizado_estoques": -264234,
+      "ir_cs_lnr": 89871,
+      "avp": -6071,
+      "ir_avp": 2064,
+      "resultado": 627983
+    },
+    "lnr_base_ir_diferido": {
+      "2025": 1293806,
+      "2024": 1029612
+    },
+    "variacao_lnr": 264194
+  }
+}

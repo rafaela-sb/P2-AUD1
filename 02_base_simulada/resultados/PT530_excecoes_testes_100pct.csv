@@ -1,0 +1,746 @@
+id_registro;teste;descricao
+SIM-EST-0016442;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0026818;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0037137;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0043185;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0056414;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0059290;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0075643;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0077119;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0078569;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0084616;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0096651;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0102953;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0105998;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0110839;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0130627;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0133302;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0136314;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0145632;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0148527;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0162144;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0164635;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0167498;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0186566;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0212199;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0214983;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0248365;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0254756;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0258709;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0278014;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0287913;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0295979;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0311976;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0313135;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0313398;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0327036;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0346114;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0371839;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0381982;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0392287;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0396543;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0397500;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0418260;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0440921;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0449660;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0467944;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0493416;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0496085;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0497367;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0507041;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0514110;T1_RECALCULO_QTDxCUSTO;valor contábil difere de qtd x custo
+SIM-EST-0518212;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518213;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518214;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518215;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518216;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518217;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518218;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518219;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518220;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518221;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518222;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518223;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518224;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518225;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518226;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518227;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518228;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518229;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518230;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518231;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518232;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518233;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518234;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518235;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518236;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518237;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518238;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518239;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518240;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518241;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518242;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518243;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518244;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518245;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518246;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518247;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518248;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518249;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518250;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518251;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518252;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518253;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518254;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518255;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518256;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518257;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518258;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518259;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518260;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518261;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518262;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518263;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518264;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518265;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518266;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518267;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518268;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518269;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518270;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0518271;T2_DUPLICIDADE;chave sku/local/lote repetida
+SIM-EST-0007141;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0012373;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0031370;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0062743;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0070545;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0122141;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0124326;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0158325;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0190811;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0195400;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0198988;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0208877;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0220465;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0262059;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0267150;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0358556;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0396067;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0405676;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0405779;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0425796;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0439358;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0449784;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0455144;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0458895;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0466704;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0471931;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0489177;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0490558;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0492325;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0499107;T3_QTD_NEGATIVA;quantidade negativa
+SIM-EST-0002834;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0014486;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0026140;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0030263;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0042147;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0057471;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0071707;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0074492;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0075255;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0088171;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0094637;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0096444;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0101075;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0104729;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0108796;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0111855;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0113172;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0121553;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0127886;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0143430;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0145109;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0147744;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0148273;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0174958;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0183061;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0199183;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0203975;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0205716;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0214899;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0220028;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0225055;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0226348;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0243620;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0245515;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0247354;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0253726;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0274145;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0279966;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0287513;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0292748;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0294339;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0296003;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0296457;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0297587;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0309162;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0312163;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0315277;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0320242;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0321663;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0323371;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0325178;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0326254;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0326465;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0328168;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0334759;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0339978;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0345718;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0347553;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0360584;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0364452;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0392769;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0397841;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0412673;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0416143;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0417013;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0422650;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0425072;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0427638;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0428927;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0445966;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0451188;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0457070;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0467681;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0471927;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0480865;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0481975;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0484457;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0486224;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0490993;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0496847;T4_CORTE;entrada posterior a 31/12/2025
+SIM-EST-0000716;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0000905;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0005380;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0006900;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0008466;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0009086;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0010272;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0013941;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0015287;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0015989;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0016159;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0016317;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0018697;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0019394;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0024144;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0024643;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0029381;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0030880;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0038051;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0039251;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0040086;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0042087;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0043563;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0044113;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0045748;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0045768;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0047542;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0047722;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0047845;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0048813;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0050238;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0052777;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0054250;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0054680;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0057687;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0059100;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0060351;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0066111;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0067098;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0067728;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0069601;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0070027;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0070193;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0070220;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0071893;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0072953;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0074266;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0077489;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0077896;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0078847;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0080626;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0081409;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0083392;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0084082;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0088270;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0088931;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0090659;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0091684;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0094742;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0096704;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0100357;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0102739;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0107202;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0107216;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0107246;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0107610;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0107805;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0108617;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0108680;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0109035;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0110770;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0113791;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0116868;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0118115;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0118646;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0120610;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0120724;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0124598;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0125707;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0127640;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0128485;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0129296;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0129534;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0129582;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0129951;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0131615;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0131683;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0131866;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0132699;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0134630;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0142491;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0143732;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0143794;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0144788;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0147002;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0147633;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0149246;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0149486;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0150815;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0154481;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0154950;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0155029;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0155201;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0155814;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0155887;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0158782;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0158789;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0159016;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0163619;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0168508;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0169631;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0170200;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0172759;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0175025;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0176512;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0177576;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0178773;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0179921;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0181481;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0181951;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0186335;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0187001;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0189199;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0191708;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0193650;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0194275;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0194662;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0195771;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0196743;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0198178;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0198724;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0208634;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0210825;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0211525;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0212697;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0215032;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0215358;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0216971;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0217133;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0218065;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0218649;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0219618;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0221572;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0224883;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0225641;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0226274;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0228247;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0230631;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0231936;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0232194;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0232934;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0234737;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0234819;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0237361;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0237432;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0237870;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0238152;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0238314;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0240956;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0241449;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0242297;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0245540;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0245877;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0247090;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0247646;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0250168;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0250875;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0251366;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0253314;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0255507;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0257110;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0257315;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0257834;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0261737;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0263808;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0264573;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0265926;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0271896;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0278832;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0279447;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0282808;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0286515;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0287309;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0287904;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0289078;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0290994;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0291882;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0292703;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0296840;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0297692;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0298400;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0298402;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0301318;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0302516;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0302644;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0303232;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0303260;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0313124;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0314022;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0315315;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0316971;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0317962;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0318538;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0319289;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0321996;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0328261;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0330925;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0335611;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0338526;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0338669;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0338742;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0344233;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0346733;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0348615;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0350433;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0352491;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0356087;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0357247;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0357766;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0360334;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0364099;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0364794;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0365201;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0366237;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0366611;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0370027;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0371071;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0371299;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0371387;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0373383;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0374229;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0374856;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0375492;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0377476;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0377564;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0382301;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0389200;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0390566;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0392625;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0392820;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0397118;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0401335;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0403388;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0403688;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0406220;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0414038;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0415297;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0415371;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0416627;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0417004;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0418543;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0418685;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0423559;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0424909;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0425308;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0428895;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0430128;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0432986;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0436451;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0444630;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0449474;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0449866;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0455088;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0455598;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0455959;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0457709;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0460571;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0460639;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0462994;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0464042;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0464605;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0465163;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0468482;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0470832;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0471712;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0471745;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0472376;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0479333;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0480948;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0484042;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0485634;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0492951;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0493533;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0493822;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0494016;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0494418;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0494847;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0495124;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0496398;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0497838;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0504233;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0505302;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0505633;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0508354;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0511226;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0511762;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0512479;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0513901;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0514371;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0517813;T5_GIRO_LENTO_SEM_PROVISAO;item enquadrado na política de provisão sem provisão suficiente
+SIM-EST-0001230;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0005228;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0011395;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0013394;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0017242;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0025857;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0029384;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0029896;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0039657;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0040054;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0044518;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0045966;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0050795;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0051072;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0052765;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0053211;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0054860;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0055558;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0066942;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0068560;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0070300;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0072190;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0072867;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0073787;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0077152;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0085543;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0090976;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0092409;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0098906;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0107801;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0110127;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0115544;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0115684;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0123344;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0126782;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0137994;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0138182;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0138919;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0139364;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0153437;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0161666;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0161734;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0163129;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0170447;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0171054;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0176576;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0177754;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0184446;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0185197;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0190838;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0195867;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0198704;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0198969;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0201315;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0201884;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0202568;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0206438;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0210210;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0213849;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0216848;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0217074;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0221926;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0222080;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0228113;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0233965;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0236013;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0237734;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0240125;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0241083;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0243145;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0244541;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0252006;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0257313;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0258536;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0261407;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0267784;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0268295;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0270566;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0271037;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0273327;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0273804;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0281597;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0288450;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0292178;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0294248;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0299389;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0300458;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0305419;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0307172;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0307366;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0310494;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0314408;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0314609;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0316674;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0317317;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0317624;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0321218;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0326260;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0330103;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0330178;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0333213;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0333687;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0333698;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0343155;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0343569;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0355383;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0355841;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0355901;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0357663;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0361836;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0364280;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0370471;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0374607;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0378024;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0379914;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0381842;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0382096;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0382797;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0383743;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0384892;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0385963;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0391887;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0392136;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0392675;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0396001;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0401651;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0402344;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0403318;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0414988;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0418020;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0418610;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0419195;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0421800;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0426167;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0431054;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0432358;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0434107;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0434220;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0439990;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0443625;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0445892;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0448438;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0449955;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0457559;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0459104;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0460042;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0462660;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0469178;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0470653;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0475390;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0475421;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0476645;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0479694;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0482392;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0482529;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0491631;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0500491;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0500590;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0502165;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0504148;T6_CUSTO_ACIMA_VRL;custo acima do VRL sem provisão
+SIM-EST-0005228;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0040054;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0051072;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0072867;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0077152;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0085543;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0092409;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0110127;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0115544;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0126782;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0137994;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0153437;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0190838;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0195867;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0210210;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0222080;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0233965;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0237734;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0240125;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0244541;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0261407;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0281597;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0288450;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0294248;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0307366;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0310494;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0316674;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0326260;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0333698;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0343155;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0355841;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0379914;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0382096;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0382797;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0383743;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0384892;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0418610;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0469178;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0475390;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0502165;T7_CUSTO_ATIPICO;custo unitário > 3x mediana do mesmo SKU
+SIM-EST-0030713;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0076071;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0112385;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0130361;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0147360;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0151219;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0186425;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0207570;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0213512;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0244774;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0246257;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0268464;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0289187;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0295492;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0296284;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0307261;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0334293;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0347849;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0395616;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0406733;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0414207;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0422239;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0442102;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0447790;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja
+SIM-EST-0449338;T8_CLASSIFICACAO_LOCAL;matéria-prima registrada em loja

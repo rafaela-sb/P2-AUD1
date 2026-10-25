@@ -1,0 +1,9 @@
+item;base_simulada_RS;contabil_RS;diferenca_RS;fonte_contabil
+Saldo líquido - PRODUTO_ACABADO;978949000,0;978949000,0;0,0;DF25 nota 7.2, p.30
+Saldo líquido - MATERIA_PRIMA;443046000,0;443046000,0;0,0;DF25 nota 7.2, p.30
+Saldo líquido - MAT_CONSUMO_EMBALAGEM;56459000,0;56459000,0;0,0;DF25 nota 7.2, p.30
+Saldo líquido - EM_TRANSITO;472000,0;472000,0;0,0;DF25 nota 7.2, p.30
+Total estoques (líquido);1478926000,0;1478926000,0;0,0;DF25 BP p.19 / nota 7.2 p.30
+Provisão para perdas;4688000,0;4688000,0;0,0;DF25 nota 7.3, p.31
+Lucro não realizado eliminado na consolidação;1293806000,0;1293806000,0;0,0;DF25 nota 20.9, p.52 (base do IR diferido)
+Saldo bruto (antes da provisão);1483614000,0;1483614000,0;0,0;Nota 7.2 + 7.3 (premissa: composição divulgada é líquida da provisão)
